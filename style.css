@@ -1,0 +1,159 @@
+body{
+    margin: 0;
+}
+#title{
+    padding: 5% 6%;
+    background-color: #F7F8FD;
+}
+.navbar-brand{
+    padding-left: 25px;
+    font-weight: bold;
+    font-size: 35px;
+}
+.nav-item{
+    font-family: 'Poppins', sans-serif;
+    margin: 0 18px;
+}
+
+/* title-1*/
+
+.title-1{
+    padding:10% 0 7%;
+}
+.cloud{
+    font-weight: 700;
+    font-size: 48px;
+    line-height: 68px;
+    padding: 6% 0 2%;
+
+}
+p{
+    font-family: 'Poppins', sans-serif;
+    padding-bottom:2%;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 2;
+}
+.img-2{
+    margin-top: -5%;
+}
+
+/*SEARCH*/
+
+#search{
+    padding: 10% 6%;
+    text-align: center;
+}
+h2{
+    font-style: normal;
+    font-weight: 700;
+    font-size: 32px;
+    line-height: 2;
+    padding-bottom: 2%;
+}
+.input-group{
+    width: 100%;
+    text-align: center;
+}
+/*features*/
+#features{
+    text-align: center;
+    background-color: #F7F8FD;
+    padding: 10% 10%;
+}
+.icon{
+    color: #0098FF;
+}
+.icon:hover{
+    color: black;
+}
+.service{
+    margin-bottom: 10%;
+    font-weight: 700;
+    font-size: 48px;
+    line-height: 68px;
+}
+h3{
+    
+    font-weight: bold;
+    font-size: 1.5rem;
+    line-height: 2;
+    padding: 2% 0;
+}
+
+/*world section*/
+#world{
+    text-align: center;
+    padding: 10% 10%;
+}
+.carousel-indicators{
+    margin:0 0 -4%;
+}
+.para{
+    width: 40%;
+    margin: auto;
+}
+
+/*rating section*/
+#rating{
+    background-color: #0098FF;
+    padding: 5% 0 3%;
+    text-align: center;
+    color: #fff;
+    
+}
+h1{
+    font-weight: bold;
+    font-size: 3rem;
+}
+
+/*pricing section*/
+#pricing{
+    text-align: center;
+    padding: 5% 5%;
+}
+.pricing-cloumn{
+    padding-bottom: 3%;
+}
+
+#footer{
+    background-color: #F7F8FD;
+    text-align: center;
+    padding: 10% 10%;
+}
+
+h4{
+    font-size: 1.5rem;
+    font-weight: bold;
+}
+.footer-log{
+    padding:0 0 5%;
+}
+
+.fottor-rights{
+    margin:15% 0 0;
+}
+
+
+@media(max-width: 986px){
+    .title-1{
+        text-align: center;
+    }
+
+    .nav-item{
+        text-align: center;
+    }
+    .img-2{
+        width: 60%;
+        margin-top: 7%;
+    }
+
+    .para{
+        width: 80%;
+        margin: auto;
+    }
+
+
+    
+
+}
